@@ -1,2 +1,2 @@
 # GEOG5018
-Geovisualization in Python
+Lab 5 Geovisualization in Python
